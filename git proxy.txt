@@ -1,0 +1,20 @@
+git代理设置方法解决
+git config --global https.proxy http://127.0.0.1:1080
+
+git config --global https.proxy https://127.0.0.1:1080
+
+git config --global --unset http.proxy
+
+git config --global --unset https.proxy
+
+npm config delete proxy
+
+git config --global http.proxy 'socks5://127.0.0.1:1080'
+git config --global https.proxy 'socks5://127.0.0.1:1080'
+
+git config --global http.proxy 10.100.20.72:3128
+
+git config --global https.proxy 10.100.20.72:3128
+
+(for zmodo)
+
