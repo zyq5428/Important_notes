@@ -1,4 +1,4 @@
-git´úÀíÉèÖÃ·½·¨½â¾ö£¨Johnsonzhou£©
+gitä»£ç†è®¾ç½®æ–¹æ³•è§£å†³ï¼ˆJohnsonzhouï¼‰
 git config --global https.proxy http://127.0.0.1:1080
 
 git config --global https.proxy https://127.0.0.1:1080

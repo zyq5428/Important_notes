@@ -1,0 +1,3 @@
+git Bash:
+
+git config --global gui.encoding utf-8
